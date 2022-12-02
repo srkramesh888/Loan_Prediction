@@ -14,3 +14,14 @@ In this project we have built five different models and tested with data. The fi
 	XGBoost 
 	Logistic Regression
 	Support Vector Machine (SVM)
+	
+Conclusion:
+	 We did Exploratory data Analysis on the features of this dataset and saw how each feature is distributed.
+	We analysed each variable to check if data is cleaned and normally distributes
+	We cleaned the data and removed NA values 
+	We also generated hypothesis to prove an association among the independent variables and the Target variable. And based on the results, we assumed whether or not there is an association. 
+	We calculated correlation between independent variables and found that applicant income and loan amount have significant relation.
+	 We created dummy variables for constructing the model
+	 We constructed models taking different variables into account and found through odds ratio that credit credit history is creating the most impact on loan giving decision 
+	Finally, we got a model with coapplicant income and credit history as independent variable with highest accuracy. 
+	We tested the data and got the accuracy of 83 %
