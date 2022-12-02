@@ -53,3 +53,10 @@ Conclusion:
 	Finally, we got a model with coapplicant income and credit history as independent variable with highest accuracy. 
 
 	We tested the data and got the accuracy of 83 %
+
+
+
+Environment: 
+
+Python- 3.8.11
+Jupyter notebook - 6.4.3
