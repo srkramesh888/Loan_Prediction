@@ -16,7 +16,9 @@ In this project we have built five different models and tested with data. The fi
 	Support Vector Machine (SVM)
 	
 Conclusion:
+
 	 We did Exploratory data Analysis on the features of this dataset and saw how each feature is distributed.
+
 	We analysed each variable to check if data is cleaned and normally distributes
 	We cleaned the data and removed NA values 
 	We also generated hypothesis to prove an association among the independent variables and the Target variable. And based on the results, we assumed whether or not there is an association. 
