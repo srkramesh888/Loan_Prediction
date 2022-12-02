@@ -16,6 +16,13 @@ In this project we have built five different models and tested with data. The fi
 	Support Vector Machine (SVM)
 	
 
+Results:
+
+From the below correlation matrix. We can see that Credit_History has a positive correation. So we can conclude that the target value(Loan_Status) is more depent on Credit_History
+
+![image](https://user-images.githubusercontent.com/68192853/205286160-67bb7e26-a513-472e-b767-d54c2bc9eb74.png)
+
+ 
 
 •	We tested the data and got the accuracy of 83 %. Among all the models Logistic Regression gives maximum accuracy.
 
