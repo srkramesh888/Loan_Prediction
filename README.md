@@ -15,6 +15,18 @@ In this project we have built five different models and tested with data. The fi
 	Logistic Regression
 	Support Vector Machine (SVM)
 	
+
+
+•	We tested the data and got the accuracy of 83 %. Among all the models Logistic Regression gives maximum accuracy.
+
+•	Credit_History is the variable that impacts the Loan_Status variable (Higher Dependencies)
+
+•	The Logisitic Regression Model is the most accurate model : 83.24% Accurate
+
+![image](https://user-images.githubusercontent.com/68192853/205285969-b913e115-b4d2-4e69-b127-0d0fa58fba04.png)
+
+           
+
 Conclusion:
 
 	 We did Exploratory data Analysis on the features of this dataset and saw how each feature is distributed.
